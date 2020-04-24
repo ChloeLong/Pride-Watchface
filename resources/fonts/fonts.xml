@@ -1,0 +1,4 @@
+<resources>
+	<font id="font" filename="pridefont.fnt"/>
+	<font id="fontSmall" filename="pridefontsmall.fnt"/>
+</resources>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="8" lineNum="15" pc="268435531" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="8" lineNum="16" pc="268435535" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="8" lineNum="19" pc="268435553" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="8" lineNum="20" pc="268435596" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="8" lineNum="21" pc="268435639" symbol="initialize"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="9" lineNum="24" pc="268435683" symbol="onLayout"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="9" lineNum="25" pc="268435687" symbol="onLayout"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="9" lineNum="28" pc="268435724" symbol="onLayout"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="9" lineNum="29" pc="268435788" symbol="onLayout"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="32" pc="268435799" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="33" pc="268435803" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="36" pc="268435823" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="37" pc="268435835" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="38" pc="268435847" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="39" pc="268435859" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="10" lineNum="40" pc="268435871" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="11" lineNum="43" pc="268435884" symbol="drawStepCount"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="11" lineNum="45" pc="268435888" symbol="drawStepCount"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="11" lineNum="46" pc="268435905" symbol="drawStepCount"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="11" lineNum="49" pc="268435924" symbol="drawStepCount"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="11" lineNum="50" pc="268435966" symbol="drawStepCount"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="11" lineNum="51" pc="268436043" symbol="drawStepCount"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="12" lineNum="54" pc="268436118" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="12" lineNum="56" pc="268436122" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="12" lineNum="57" pc="268436158" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="12" lineNum="58" pc="268436200" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="61" pc="268436267" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="62" pc="268436271" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="65" pc="268436278" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="66" pc="268436289" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="67" pc="268436299" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="70" pc="268436309" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="71" pc="268436320" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="13" lineNum="74" pc="268436330" symbol="checkAMPM"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="14" lineNum="77" pc="268436358" symbol="drawTime"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="14" lineNum="79" pc="268436362" symbol="drawTime"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="14" lineNum="80" pc="268436406" symbol="drawTime"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="14" lineNum="81" pc="268436427" symbol="drawTime"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="14" lineNum="84" pc="268436517" symbol="drawTime"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="14" lineNum="85" pc="268436559" symbol="drawTime"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="15" lineNum="88" pc="268436634" symbol="drawDate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="15" lineNum="90" pc="268436638" symbol="drawDate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="15" lineNum="91" pc="268436682" symbol="drawDate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="15" lineNum="94" pc="268436758" symbol="drawDate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="15" lineNum="95" pc="268436800" symbol="drawDate"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="98" pc="268436875" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="99" pc="268436879" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="100" pc="268436901" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="103" pc="268436923" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="104" pc="268436965" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="105" pc="268437018" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="108" pc="268437077" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="16" lineNum="109" pc="268437119" symbol="drawBattery"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="17" lineNum="112" pc="268437237" symbol="onShow"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="18" lineNum="115" pc="268437242" symbol="onHide"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="19" lineNum="118" pc="268437247" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\longcharles\\Documents\\JIRATickets\\Pride\\source\\PrideView.mc" id="20" lineNum="121" pc="268437252" symbol="onEnterSleep"/>
+        <entry filename="Rez" id="27" lineNum="23" pc="268437257" symbol="WatchFace"/>
+        <entry filename="Rez" id="27" lineNum="27" pc="268437269" symbol="WatchFace"/>
+        <entry filename="Rez" id="27" lineNum="28" pc="268437440" symbol="WatchFace"/>
+        <entry filename="Rez" id="27" lineNum="29" pc="268437473" symbol="WatchFace"/>
+        <entry filename="Rez" id="27" lineNum="30" pc="268437525" symbol="WatchFace"/>
+        <entry filename="Rez" id="27" lineNum="33" pc="268437571" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="19" method="true" symbol="drawBattery"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="18" method="true" symbol="drawDate"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="12" symbol="center"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="23" symbol="AppName"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="8390742" method="true" symbol="drawBackground"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry id="17" method="true" symbol="drawTime"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="10" object="true" symbol="PrideView"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="11" symbol="dcR"/>
+        <entry field="true" id="14" symbol="myStats"/>
+        <entry field="true" id="8389243" symbol="flag"/>
+        <entry id="21" module="true" symbol="Layouts"/>
+        <entry id="16" method="true" symbol="checkAMPM"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="8389892" symbol="background"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="9" object="true" symbol="PrideApp"/>
+        <entry id="20" module="true" symbol="Menus"/>
+        <entry id="15" method="true" symbol="drawStepCount"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="13" symbol="fontSmall"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435799" name="dc" stackId="1" startPc="268435683"/>
+        <entry endPc="268435884" name="dc" stackId="1" startPc="268435799"/>
+        <entry endPc="268436117" name="activityInfo" stackId="1" startPc="268435888"/>
+        <entry endPc="268436117" name="stepsString" stackId="2" startPc="268435888"/>
+        <entry endPc="268436357" name="AMPM" stackId="2" startPc="268436271"/>
+        <entry endPc="268436358" name="hours" stackId="1" startPc="268436267"/>
+        <entry endPc="268436633" name="today" stackId="1" startPc="268436362"/>
+        <entry endPc="268436633" name="timeString" stackId="3" startPc="268436362"/>
+        <entry endPc="268436633" name="twelveHour" stackId="2" startPc="268436362"/>
+        <entry endPc="268436874" name="today" stackId="1" startPc="268436638"/>
+        <entry endPc="268436874" name="dateString" stackId="2" startPc="268436638"/>
+        <entry endPc="268437236" name="batteryY" stackId="1" startPc="268436879"/>
+        <entry endPc="268437236" name="offset" stackId="2" startPc="268436879"/>
+        <entry endPc="268437588" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268437269"/>
+        <entry endPc="268437588" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268437269"/>
+        <entry endPc="268437589" name="dc" stackId="1" startPc="268437257"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PrideApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="PrideApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="PrideApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="PrideApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="PrideView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PrideView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawStepCount" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBackground" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="checkAMPM" parent="PrideView">
+            <param id="hours"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTime" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBattery" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="PrideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="PrideView" type="class"/>
+        <dataEntry offset="357" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="436" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="483" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="514" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="561" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="592" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="631" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="670" parentId="globals" symbolId="PrideApp" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
